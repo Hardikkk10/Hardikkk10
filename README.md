@@ -1,28 +1,28 @@
-### Hi there 👋
+## Hi there 👋
 
-# My Coding Odyssey: From Zero to Hero 🚀
+### My Coding Odyssey: From Zero to Hero 🚀
 
 Hello, world! I'm Hardik, your friendly neighborhood software developer taking on an exciting journey to conquer the world of ones and zeros.
 
-## About Me
+### About Me
 
 I'm a Software Developer, fueled by curiosity and determination. As a fresh graduate in M.C.A., I'm embracing every bug, syntax error, and "Eureka!" moment with open arms.
 
-## Projects: Learning to Soar
+### Projects: Learning to Soar
 ![devatwork](https://github.com/Hardikkk10/Hardikkk10/assets/121341566/58a326c0-4569-41ce-94e5-0eaf44a4a994)
 
 <!--![undraw_Freelancer_re_irh4](https://github.com/Hardikkk10/Hardikkk10/assets/121341566/e3548563-6ee3-4ef0-8186-a0d7f90b7332 )-->
 
 Remember, every `Status Code : 200 OK` gets us closer to mastery. So, fellow adventurers, brace yourselves for a roller coaster ride through the captivating world of coding! 🎢📝
 
-<h3 align="left">Let's connect and learn together:</h3>
+### Let's connect and learn together:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardikkk10&label=Profile%20views&color=0e75b6&style=flat" alt="hardikkk10" /> </p>
 <p align="left">
 <a href="https://twitter.com/hardikkkk1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hardikkkk1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mhatre-hardik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhatre-hardik" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
 </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
@@ -34,18 +34,3 @@ Remember, every `Status Code : 200 OK` gets us closer to mastery. So, fellow adv
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<!--
-**Hardikkk10/Hardikkk10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
