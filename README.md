@@ -8,7 +8,7 @@ Hello, world! I'm Hardik, your friendly neighborhood software developer taking o
 
 I'm a Software Developer, fueled by curiosity and determination. As a fresh graduate in M.C.A., I'm embracing every bug, syntax error, and "Eureka!" moment with open arms.
 
-### Projects: Learning to Soar
+### Project: Learning to Soar
 ![devatwork](https://github.com/Hardikkk10/Hardikkk10/assets/121341566/58a326c0-4569-41ce-94e5-0eaf44a4a994)
 
 <!--![undraw_Freelancer_re_irh4](https://github.com/Hardikkk10/Hardikkk10/assets/121341566/e3548563-6ee3-4ef0-8186-a0d7f90b7332 )-->
