@@ -6,7 +6,7 @@ Hello, world! I'm Hardik, your friendly neighborhood software developer taking o
 
 ### About Me
 
-I'm a Software Developer, fueled by curiosity and determination. As a fresh graduate in M.C.A., I'm embracing every bug, syntax error, and "Eureka!" moment with open arms.
+I'm a Software Developer, fueled by curiosity and determination. As a fresh graduate in M.C.A., I'm embracing every bug, syntax error, and "It works!" moment with open arms.
 
 ### Project: Learning to Soar
 ![devatwork](https://github.com/Hardikkk10/Hardikkk10/assets/121341566/58a326c0-4569-41ce-94e5-0eaf44a4a994)
